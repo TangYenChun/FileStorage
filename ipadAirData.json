@@ -1,0 +1,46 @@
+{
+    "colors":[
+        {
+            "color": "太空灰色",
+            "picture": "img/img_ipadAir/ipad-gray.png"
+        },
+        {
+            "color": "銀色",
+            "picture": "img/img_ipadAir/ipad-silver.png"
+        },
+        {
+            "color": "綠色",
+            "picture": "img/img_ipadAir/ipad-green.png"
+        },
+        {
+            "color": "玫瑰金色",
+            "picture": "img/img_ipadAir/ipad-gold.png"
+        },
+        {
+            "color": "天藍色",
+            "picture": "img/img_ipadAir/ipad-blue.png"
+        }
+    ],
+    "products":[
+        {
+            "price": 18900,
+            "storage": "64GB",
+            "conect": "Wi-Fi"
+        },
+        {
+            "price": 23200,
+            "storage": "64GB",
+            "conect": "Wi-Fi + 行動網路"
+        },
+        {
+            "price": 23900,
+            "storage": "256GB",
+            "conect": "Wi-Fi"
+        },
+        {
+            "price": 28200,
+            "storage": "256GB",
+            "conect": "Wi-Fi + 行動網路"
+        }
+    ]
+}
