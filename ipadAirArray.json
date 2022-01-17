@@ -1,5 +1,5 @@
 [
-    { "id": "A001", "color": "太空灰色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "../img/img_ipadAir/ipad-gray.png" },
+    { "id": "A001", "color": "太空灰色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "./img/img_ipadAir/ipad-gray.png" },
     { "id": "A002", "color": "銀色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "../img/img_ipadAir/ipad-silver.png" },
     { "id": "A004", "color": "綠色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "../img/img_ipadAir/ipad-green.png" },
     { "id": "A003", "color": "玫瑰金色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "../img/img_ipadAir/ipad-gold.png" },
